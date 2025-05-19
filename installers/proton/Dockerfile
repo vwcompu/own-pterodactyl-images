@@ -4,8 +4,8 @@
 FROM        ubuntu:24.04
 
 LABEL       org.opencontainers.image.description="STEAM Proton-GE Image to use with Pelican/Pterodactyl Gamepanel"
-LABEL       org.opencontainers.image.authors="info@goover.de"
-LABEL       org.opencontainers.image.source="https://github.com/gOOvER/own-pterodactyl-images"
+LABEL       org.opencontainers.image.authors="info@vwcompu.de"
+LABEL       org.opencontainers.image.source="https://github.com/vwcompu/own-pterodactyl-images"
 LABEL       org.opencontainers.image.licenses=AGPL-3.0-or-later
 
 # Env Setup
