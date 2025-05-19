@@ -1,8 +1,8 @@
 FROM        	--platform=$TARGETOS/$TARGETARCH python:3.9-slim
 
 LABEL       	author="Michael Parker" maintainer="parker@pterodactyl.io"
-LABEL           author="Torsten Widmann" maintainer="info@goover.de"
-LABEL           org.opencontainers.image.source="https://github.com/gOOvER/own-pterodactyl-images"
+LABEL           author="Torsten Widmann" maintainer="info@vwcompu.de"
+LABEL           org.opencontainers.image.source="https://github.com/vwcompu/own-pterodactyl-images"
 LABEL           org.opencontainers.image.licenses=MIT
 
 ENV             DEBIAN_FRONTEND=noninteractive
